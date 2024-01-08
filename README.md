@@ -12,3 +12,5 @@ step 3 : npm start.
 
 Technology used for backend : EXPRESS JS(Node) , MONGODB ,MONGOOSE.
 Technology used for frontend : REACT JS , REACT BOOTSTRAP , CSS3.
+
+For ConfigId use "qwerty" or "qwertyuiop" . 
